@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#_Homework\Homework_5\task_38\obj\Debug\net7.0\task_38.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#_Homework\Homework_5\task_38\obj\Debug\net7.0\task_38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#_Homework\Homework_5\task_38\obj\Debug\net7.0\task_38.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#_Homework\Homework_5\task_38\obj\Debug\net7.0\task_38.AssemblyInfo.cs
+C:\Users\User\Desktop\C#_Homework\Homework_5\task_38\obj\Debug\net7.0\task_38.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#_Homework\Homework_5\task_38\bin\Debug\net7.0\task_38.exe
+C:\Users\User\Desktop\C#_Homework\Homework_5\task_38\bin\Debug\net7.0\task_38.deps.json
+C:\Users\User\Desktop\C#_Homework\Homework_5\task_38\bin\Debug\net7.0\task_38.runtimeconfig.json
+C:\Users\User\Desktop\C#_Homework\Homework_5\task_38\bin\Debug\net7.0\task_38.dll
+C:\Users\User\Desktop\C#_Homework\Homework_5\task_38\bin\Debug\net7.0\task_38.pdb
+C:\Users\User\Desktop\C#_Homework\Homework_5\task_38\obj\Debug\net7.0\task_38.dll
+C:\Users\User\Desktop\C#_Homework\Homework_5\task_38\obj\Debug\net7.0\refint\task_38.dll
+C:\Users\User\Desktop\C#_Homework\Homework_5\task_38\obj\Debug\net7.0\task_38.pdb
+C:\Users\User\Desktop\C#_Homework\Homework_5\task_38\obj\Debug\net7.0\task_38.genruntimeconfig.cache
+C:\Users\User\Desktop\C#_Homework\Homework_5\task_38\obj\Debug\net7.0\ref\task_38.dll
